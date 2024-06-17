@@ -1,5 +1,5 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/kevinzhang001/">Kevin</a>! <br/>
-<a href="https://github.com/kzha0676">Data Analyst</a></h1>
+<a href="https://github.com/kzha0676">Aspiring Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
