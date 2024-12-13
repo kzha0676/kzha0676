@@ -20,7 +20,7 @@
 
 - [Coming Soon]()
 
-- [<img align="left" alt="Kevin Zhang" | LinkedIn" width="22px" src="[https://www.pinclipart.com/picdir/middle/97-971470_linkedin-linkedin-social-media-icons-clipart.png](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)" />][linkedin]
+- [<img align="left" alt="Kevin Zhang" | LinkedIn" width="22px" src="(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)" />][linkedin]
 <!--
 
 <h2> 🤳 Connect with me:</h2>
